@@ -12,7 +12,8 @@ Digital signage for use by race track officials at flag stations
 Available as a finished complete product with custom electronics and enclosures in two form factors:
 * mains-powered 4 matrix (2x2) SmartyKAT with additional character LCD and menu driven interface
 * battery powered portable hand-held single matrix MiniKAT with simplified hotkey interface
-##### Design
+
+#### Design
 * Firmware written using Arduino language for ease of modification and extension
 * Uses off-the-shelf LED digital matrix displays from [Freetronics](http://www.freetronics.com.au/collections/display/products/dmd-dot-matrix-display-32x16-white#.Vh-tPPmqpBc)
 
